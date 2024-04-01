@@ -18,4 +18,6 @@ FLAMES is a popular game among teenagers to find out the relationship status bet
 5. The script returns the FLAMES result along with the names of the individuals entered.
 
 ## Example
-
+Enter the 1st Name : John
+Enter the 2nd Name : Jane
+FLAMES for john and jane is: Marriage
